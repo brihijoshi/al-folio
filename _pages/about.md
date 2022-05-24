@@ -2,23 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
-  image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: brihi2.jpg
+  address: 
+
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a first-year CS PhD student at the [University of Southern California](https://www.usc.edu/), advised by [Prof. Xiang Ren](https://shanzhenren.github.io/) as a part of the [NLP Group](https://cl.usc.edu/) and [INK Research Lab](https://inklab.usc.edu/index.html). My research interests lie in developing *explainable* and *label-efficient* methods for diverse NLP tasks. Find more details about it in the [research](/research/) tab!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Prior to this, I was an Analyst at [Goldman Sachs](https://www.goldmansachs.com/) where I worked with the Regulatory Engineering team. Even before that, I graduated with a Bachelors in Computer Science from [IIIT Delhi](https://www.iiitd.ac.in/) in December, 2020, where I completed my thesis as a part (and founding member) of the [Laboratory for Computational Social Systems (LCS2)](http://lcs2.iiitd.edu.in/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Apart from pursuing my academic interests, I am extremely passionate about upliftment of women (and other minorities) in technology. I co-lead the Delhi chapter (remotely) of [Women Who Code Delhi](https://www.womenwhocode.com/delhi), which is an organisation that works towards diversity and inclusion of women in tech. I am a huge advocate of diversity in CS Research, and always looking for opportunities to support them! I am also a musician by passion and absolutely love singing and composing music. I've tried my hands at 3 instruments (and I plan to master some, explore more). Head over to the [outreach](/outreach/) tab for more details!
