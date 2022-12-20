@@ -13,9 +13,10 @@ profile:
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
+importance: 1
 ---
 
-I am a first-year CS PhD student at the [University of Southern California](https://www.usc.edu/), advised by [Prof. Xiang Ren](https://shanzhenren.github.io/) as a part of the [NLP Group](https://cl.usc.edu/) and [INK Research Lab](https://inklab.usc.edu/index.html). My research interests lie in developing *explainable* and *label-efficient* methods for diverse NLP tasks. Find more details about it in the [research](/research/) tab!
+I am a second-year CS PhD student at the [University of Southern California](https://www.usc.edu/), advised by [Prof. Xiang Ren](https://shanzhenren.github.io/) as a part of the [NLP Group](https://nlp.usc.edu/) and [INK Research Lab](https://inklab.usc.edu/index.html). My research interests lie in developing *explainable* and *label-efficient* methods for diverse NLP tasks. Find more details about it in the [research](/research/) tab!
 
 Prior to this, I was an Analyst at [Goldman Sachs](https://www.goldmansachs.com/) where I worked with the Regulatory Engineering team. Even before that, I graduated with a Bachelors in Computer Science from [IIIT Delhi](https://www.iiitd.ac.in/) in December, 2020, where I completed my thesis as a part (and founding member) of the [Laboratory for Computational Social Systems (LCS2)](http://lcs2.iiitd.edu.in/).
 
